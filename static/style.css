@@ -1,0 +1,27 @@
+body{
+    background-color: #e4d7e7;
+ }
+ #test{
+    text-align: center;
+    margin-top: 90px;
+}
+ label{
+   padding: 20px;
+   font-size: larger;
+   font-weight: bold;
+}
+ input{
+    padding: 10px;
+    margin: 20px;
+    border-radius: 1em;
+}
+ #buttonId{
+    padding: 10px;
+    color: beige;
+    background-color: black;
+}
+ .pred{
+    text-align: center;
+    font-size: larger;
+    font-weight: bolder;
+}
